@@ -1,0 +1,17 @@
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\RealStand.exe.config
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\RealStand.exe
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\RealStand.pdb
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\EntityFramework.dll
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\EntityFramework.xml
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.csprojAssemblyReference.cache
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.Form1.resources
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.GestaoCliente.resources
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.Properties.Resources.resources
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.csproj.GenerateResource.cache
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.csproj.CopyComplete
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.exe
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.pdb
+C:\Users\Miguel Ribeiro\Desktop\ESTG\2º Semestre 2018-2019\Desenvolvimento de Aplicações\RealStand\FormPrincipal\RealStand\obj\Debug\RealStand.GestaoCarroOficina.resources

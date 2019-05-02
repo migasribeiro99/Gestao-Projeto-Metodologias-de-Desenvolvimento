@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b4ef39d3b00c4ca6b578863f4a0eb59e" Name="Diagram1" ZoomLevel="55" >
+        <EntityTypeShape EntityType="BaseDadosRealStand.Cliente" Width="1.5" PointX="0.875" PointY="3.5" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.Carro" Width="1.5" PointX="10.625" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.Servico" Width="1.5" PointX="7.25" PointY="1.25" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.Parcela" Width="1.5" PointX="3.25" PointY="1.125" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.Venda" Width="1.5" PointX="4.625" PointY="3.5" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.Aluguer" Width="1.5" PointX="6.25" PointY="5.875" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.CarroOficina" Width="1.5" PointX="10.625" PointY="0.5" />
+        <InheritanceConnector EntityType="BaseDadosRealStand.CarroOficina" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.CarroVenda" Width="1.5" PointX="7.625" PointY="4" />
+        <InheritanceConnector EntityType="BaseDadosRealStand.CarroVenda" />
+        <EntityTypeShape EntityType="BaseDadosRealStand.CarroAluguer" Width="1.5" PointX="10.625" PointY="6.625" />
+        <InheritanceConnector EntityType="BaseDadosRealStand.CarroAluguer" />
+        <AssociationConnector Association="BaseDadosRealStand.ClienteCarroOficina" />
+        <AssociationConnector Association="BaseDadosRealStand.CarroOficinaServico" />
+        <AssociationConnector Association="BaseDadosRealStand.ServicoParcela" />
+        <AssociationConnector Association="BaseDadosRealStand.ClienteVenda" />
+        <AssociationConnector Association="BaseDadosRealStand.CarroAluguerAluguer" />
+        <AssociationConnector Association="BaseDadosRealStand.ClienteAluguer" />
+        <AssociationConnector Association="BaseDadosRealStand.CarroVendaVenda" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
